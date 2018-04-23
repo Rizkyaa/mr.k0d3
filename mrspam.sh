@@ -80,25 +80,25 @@ clear
 toilet -f slant --gay "LiteSpam"
 echo "\033[31;1mNama tools: LiteSpam"
 sleep 1
-echo "\033[33;1mKarya: Mr.Rm (V2 By Mr.IM81)"
+echo "\033[33;1mKarya: Mr.k0d3"
 sleep 1
 echo "\033[32;1mVersi: v2"
 sleep 1
-echo "\033[36;1mTeam: ★Indonesia Security Lite★"
+echo "\033[36;1mTeam: ★Indonesia Security Team★"
 sleep 1
-echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://www.github.com/4L13199"
+echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://www.github.com/bheler137"
 echo "\033[31;1m Spesial Thanks To: "
 echo "\033[36;1m"
-echo "Handika Pratama"
-echo "まやちゃん"
-echo "Baby Cyber Team"
+echo "ALLAH SWT."
+echo "Indonesia Security team"
+echo "Bab"
 echo "SBG-Team"
 echo "Ponorogo Defacer Team"
 sleep 1
-echo "And All Member Indonesia Security Lite"
-echo "\033[30;1m tunggu 8 detik"
-sleep 8
-sh LITESPAM.sh
+echo "And You!"
+echo "\033[30;1m tunggu 5 detik"
+sleep 5
+sh mrspam.sh
 fi
 
 if
