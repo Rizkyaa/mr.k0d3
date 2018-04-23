@@ -1,6 +1,6 @@
 #!/system/xbin/bash
 clear
-toilet -F gay "MR.K0D3"
+toilet  gay "MR.K0D3"
 sleep 1
 echo "\033[31;1m Macam-macam tool untuk spam"
 sleep 1
