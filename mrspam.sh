@@ -4,11 +4,11 @@ toilet -f slant --gay "LiteSpam"
 sleep 1
 echo "\033[31;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[33;1m Author: Mr.Rm"
+echo "\033[33;1m Author: Mr.k0d3"
 sleep 1
-echo "\033[32;1m ★contack: +15877711462"
+echo "\033[32;1m ★contack: +62895370767137"
 sleep 1
-echo "\033[34;1m ★Indonesia Security Lite"
+echo "\033[34;1m ★Indonesia Security team"
 sleep 1
 echo "\033[36;1m Spam Yang Tersedia :"
 echo "1. Tokopedia"
